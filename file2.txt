@@ -1,4 +1,4 @@
 One more file
 So we have more to create conflicts with
 and do some other stuff
-
+This is a great file. It needs more content!
